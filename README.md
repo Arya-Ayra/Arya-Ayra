@@ -3,7 +3,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 
 
-I'm pursuing B.Tech in Electronics and Communication Engineering (ECE) at IIIT Hyderabad. I am also developing skills in web development and I am also comfortable with competitive programming 🤓. I love coding and learnig and aim to be fit to do what excites me the most 🚀.
+I'm pursuing B.Tech in Electronics and Communication Engineering (ECE) at IIIT Hyderabad. I am also developing software development and I am also comfortable with competitive programming 🤓. I love coding and learnig and aim to be fit to do what excites me the most 🚀.
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> I am Arya Marda</h1>
