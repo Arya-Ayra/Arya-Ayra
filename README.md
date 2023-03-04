@@ -20,8 +20,8 @@ Some of my key skills include - C , C++ , Python , MATLAB, NgSpice, LTSpice , Ma
 --------------------------------------
 ### More about me... <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px">
 
-- 🔭 I’m currently learning  Node.js, Express.js, React, MongoDB, etc 💻.
-- 🌱 I’m currently learning Full Stack Development 🚀.
+<!-- - 🔭 I’m currently learning  Node.js, Express.js, React, MongoDB, etc 💻. -->
+<!-- - 🌱 I’m currently learning Full Stack Development 🚀. -->
 - ⚡  I'm getting better at Competative Programming.
 - 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, Docker, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
