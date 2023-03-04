@@ -11,7 +11,7 @@ I'm pursuing B.Tech in Electronics and Communication Engineering (ECE) at IIIT H
 
 
 
-Some of my key skills include - C , C++ , Python , MATLAB, NgSpice, LTSpice , Magic ,CSS , HTML , JavaScript.
+Some of my key skills include - C , C++ , Python , MERN Stack , CSS/HTML , JavaScript , MATLAB, Verilog, NgSpice, LTSpice , Magic
 
 --------------------------------------
 ![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arya-Ayra&show_icons=true&theme=radical)
