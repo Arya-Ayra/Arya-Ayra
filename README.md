@@ -3,7 +3,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 
 
-I'm currently pursuing my honros degree in Software Engineering from SERC lab @ IIIT H,also I'm currently a B.Tech student in Electronics and Communication Engineering (ECE) at IIIT Hyderabad. I am also have skill's in software development and I am comfortable with competitive programming 🤓. I love coding and learnig and aim to be fit to do what excites me the most 🚀.
+I'm currently pursuing my honors degree in Software Engineering from SERC lab @ IIIT H,also I'm currently a B.Tech student in Electronics and Communication Engineering (ECE) at IIIT Hyderabad. I am also have skill's in software development and I am comfortable with competitive programming 🤓. I love coding and learnig and aim to be fit to do what excites me the most 🚀.
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> I am Arya Marda</h1>
